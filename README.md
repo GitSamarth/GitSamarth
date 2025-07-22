@@ -6,7 +6,7 @@
 *“LEARNING BY DOING”*
 ---
 
-## 🛠️ 🧰 Languages, Tools & 
+## 🛠️ 🧰 Languages,Libraries and Frameworks
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,7 +17,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-32CD32?style=for-the-badge&logo=python&logoColor=white)](https://python.langchain.com/)
 
-**Coding at the moment on:**
+**My Go-To Coding Spaces:**
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
