@@ -24,8 +24,10 @@
 
 **Problem Solving & Competition Platforms**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-username/](https://leetcode.com/u/ORZuqtLiBC/))
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://auth.geeksforgeeks.org/user/your-username/](https://www.geeksforgeeks.org/user/samarthmaoeqq/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ORZuqtLiBC/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/samarthmaoeqq/)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-username)
 
 ---
